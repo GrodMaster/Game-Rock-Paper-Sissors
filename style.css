@@ -128,15 +128,15 @@ justify-content: space-between;
 }
 
 .Rock{
-   background-image: url(img/r.png);
+   background-image: url(./img/r.png);
 }
 
 .Paper{
- background-image: url(img/p.png);
+ background-image: url(./img/p.png);
 }
 
 .Scissors{
- background-image: url(img/s.png);
+ background-image: url(./img/s.png);
 }
 
 .win{
